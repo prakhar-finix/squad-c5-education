@@ -1,0 +1,10 @@
+google-cloud-aiplatform[adk,agent_engines]==1.110.0
+mcp==1.10.1
+lxml
+beautifulsoup4
+fire==0.7.0
+cloudpickle==3.1.1
+google-adk==1.8.0
+a2a-sdk==0.2.16
+langchain-community==0.3.20
+wikipedia==1.4.0
